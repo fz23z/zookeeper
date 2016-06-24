@@ -316,5 +316,8 @@ public interface AsyncCallback {
          */
         public void processResult(int rc, String path, Object ctx,
                 List<OpResult> opResults);
+        /**
+         * some describe
+         * /
     }
 }
